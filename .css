@@ -1,4 +1,5 @@
 /* General Reset */
+
 body, html {
     margin: 0;
     padding: 0;
@@ -7,6 +8,10 @@ body, html {
 }
 
   /* Background Image */
+
+/* https://drive.google.com/file/d/1yJflgzrj7VENUDnKxgV6Z_kUUpiqY4_c/view?usp=sharing */
+/* -------------------------download GALAXY IMG---------------------------- */
+
 body {
     background: url('images/galaxy2.jpg') no-repeat center center fixed;
     background-size: cover;
